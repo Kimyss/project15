@@ -33,5 +33,4 @@ public class Quiz8 {
 		fw.flush();
 
 	}
-
 }

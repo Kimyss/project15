@@ -1,6 +1,6 @@
 package main;
 /*
- * FileOutStream과 보조 스트림을 사용하여 파일에
+ * FileOutStream과 보조 스트림을 사용하여 파일에 
  * "프로그래밍"을 출력하세요
  * 
  * */
